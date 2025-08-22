@@ -1,4 +1,4 @@
-<header>
+gh repo clone Nshimbi/skills-introduction-to-github<header>
 
 <!--
   <<< Author notes: Course header >>>
